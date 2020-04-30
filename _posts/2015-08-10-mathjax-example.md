@@ -2,7 +2,7 @@
 layout: post
 title:  "MathJax Example"
 date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+excerpt: "MathJax Example for Eliana Cudriz Jekyll Theme."
 tag:
 - markdown 
 - mathjax

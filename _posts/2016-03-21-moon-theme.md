@@ -1,28 +1,28 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Eliana Cudriz Jekyll Theme"
 date:   2016-04-06
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
 - jekyll 
-- moon
+- Eliana Cudriz
 - blog
 - about
 - theme
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Eliana Cudriz Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<center><b>Eliana Cudriz</b> is a minimal, one column jekyll theme.</center>
      
  I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Eliana Cudriz&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
 ## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
+* Fork the [Eliana Cudriz repo](https://github.com/TaylanTatli/Eliana Cudriz/fork)
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
@@ -37,7 +37,7 @@ That's all.
 	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
 	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+{% include gallery images=images caption="Screenshots of Eliana Cudriz Theme" cols=3 %}
 
 ---
 
@@ -45,9 +45,9 @@ That's all.
 	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
 	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
 {% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
+{% include gallery images=images caption="Eliana Cudriz Theme on Small Screen Size" cols=2 %}      
       
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
+See a [live version of Eliana Cudriz](http://taylantatli.github.io/Eliana Cudriz) hosted on GitHub.      
 
 ## Site Setup
 A quick checklist of the files you’ll want to edit to get up and running.    
@@ -76,7 +76,7 @@ Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating 
 Examples:
 
 {% highlight yaml %}
-url: http://taylantatli.me/Moon
+url: http://taylantatli.me/Eliana Cudriz
 url: http://localhost:4000
 url: //cooldude.github.io
 url:
@@ -121,15 +121,15 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 - title: About
   url: /about/
 
-- title: Moon
-  url: http://taylantatli.me/Moon
+- title: Eliana Cudriz
+  url: http://taylantatli.me/Eliana Cudriz
 {% endhighlight %}
 
 ---
 
 ## Layouts and Content
 
-Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
+Eliana Cudriz Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
 
 ### Feature Image
 
@@ -142,7 +142,7 @@ feaure: http://example.com/some-image.png
 ```    
  This also will be used for twitter card:
 
-![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
+![Eliana Cudriz Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
 
 ### Comments
 To show disqus comments for your post add `comments: true` to your post's front matter.
@@ -151,7 +151,7 @@ To show disqus comments for your post add `comments: true` to your post's front 
 
 ## Questions?
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
+Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Eliana Cudriz/issues/new). And if you make something cool with this theme feel free to let me know.
 
 ---
 
