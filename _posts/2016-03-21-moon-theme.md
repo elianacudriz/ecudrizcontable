@@ -116,10 +116,10 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
   url: /blog/
 
 - title: Projects
-  url: /projects/
+  url: /experiencia/
 
 - title: About
-  url: /about/
+  url: /acerca-de/
 
 - title: Eliana Cudriz
   url: http://taylantatli.me/Eliana Cudriz
