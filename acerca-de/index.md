@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, Eliana Cudriz]
-date: 2016-03-21
+title: Acerca de mí
+tags: [about, Eliana Cudriz]
+date: 2020-05-15
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Eliana Cudriz"><b>Eliana Cudriz</b></a> is a minimal, one column jekyll theme.</center>
+
+Soy contadora pública de la UDEM (Universidad de Medellín). Una entusiasta por las Niif, tributaria, auditoría y finanzas. Me gusta investigar y apoyar en la creación de indicadores que permitan medir tu negocio de manera confiable y certera. Estoy constantemente estudiando y actualizándome en cuanto a los cambios en la normatividad tributaria y financiera actual como desarrollo profesional.
+
+Como auditora externa tuve la oportunidad de realizar la implementación de NIIF en Radiotrans SAS, además he trabajado en empresas de servicios con sede en Estados Unidos y Colombia. Actualmente, asesoro a empresas de servicios y comerciales siendo soporte en el ámbito financiero, tributario, contable y administrativo.
 
 ## Features
 * Minimal, you can focus on your content
@@ -33,5 +35,5 @@ See a [live version of Eliana Cudriz](http://taylantatli.github.io/Eliana Cudriz
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Eliana Cudriz/Eliana Cudriz-theme/) for more information.
-      
+
 [Install Eliana Cudriz](https://github.com/TaylanTatli/Eliana Cudriz){: .btn}
