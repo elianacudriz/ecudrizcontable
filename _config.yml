@@ -1,10 +1,12 @@
 # Site
 title:              Eliana Cudriz
-bio:                'Minimal, one column jekyll theme.'
-description:        "Eliana Cudriz is a minimal, one column jekyll theme for your blog."
+bio:                'Contadora Publica, Universidad de Medellin.'
+description:        "Eliana Cudriz, profesional entusiasta por las Niif, tributaria, auditoria y finanzas."
+."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
+profile:            'assets/img/foto.jpg'
 background:         'assets/img/fondo.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
