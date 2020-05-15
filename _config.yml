@@ -5,7 +5,7 @@ description:        "Eliana Cudriz, profesional entusiasta por las Niif, tributa
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-profile:            'assets/img/foto.jpg'
+profile:            'assets/img/foto.jpeg'
 background:         'assets/img/fondo.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
