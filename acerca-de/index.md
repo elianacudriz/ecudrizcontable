@@ -25,7 +25,6 @@ Como auditora externa tuve la oportunidad de realizar la implementación de NIIF
 ## Otras actitudes
 
 * Ingles B1
-* Contabilidad USA
+* Contabilidad en USA
 
-
-##
+## Contáctame
