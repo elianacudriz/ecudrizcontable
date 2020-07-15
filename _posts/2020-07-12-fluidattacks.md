@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Eliana Cudriz"
+title:  "FluidAttacks"
 date:   2020-07-14
-excerpt: "Contadora pública, Universidad de Medellín."
+excerpt: "Trabajo realizado en Fluidsignal Group SA."
 project: true
 tag:
 - Experiencia

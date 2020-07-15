@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Eliana Cudriz"
+title:  "Radiotrans"
 date:   2020-07-14
-excerpt: "Contadora pública, Universidad de Medellín."
+excerpt: "Proyectos hechos para en Radiotrans SAS."
 project: true
 tag:
 - Experiencia

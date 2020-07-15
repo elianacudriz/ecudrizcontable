@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Eliana Cudriz"
+title:  "Autonomic"
 date:   2020-07-14
-excerpt: "Contadora pública, Universidad de Medellín."
+excerpt: "Trabajo para Autonomic SAS."
 project: true
 tag:
 - Experiencia
