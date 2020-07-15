@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Eliana Cudriz"
+date:   2020-07-14
+excerpt: "Contadora pública, Universidad de Medellín."
+project: true
+tag:
+- Experiencia
+- Eliana Cudriz
+- blog
+- Acerca de mí
+- Contadora
+comments: true
+feature: http://i.imgur.com/Ds6S7lJ.png
+---
+
+## Experiencia en Fluidsignal Group SA
+* Responsable de la información contable y financiera de la compañía.
+* Auditoría y revisión de la información contable.
+* Elaboración y presentación de impuestos nacionales y territoriales.
+* Elaboración de los estados financieros anuales y parciales con sus respectivas notas, Colombia y Estados Unidos.
+* Liderazgo y monitoreo del proceso de facturación electrónica.
+* Elaboración y revisión del cumplimiento de las políticas contables definidas.
+* Elaboración de nómina.
+* Elaboración de informes de junta mensuales y presentación de los mismos.
+* Proyección de renta y análisis de estrategias tributarias adecuadas en pro de la optimización tributaria de la compañía.
+* Proyección de Caja a 1 o más años determinando el efectivo requerido para toma de decisiones futuras.
+* Revisión y monitoreo del informe diario de caja para Colombia y Estados Unidos.
+* Elaboración del presupuesto anual.
+* Ejecución presupuestal.
+* Monitoreo de la facturación de ambas compañías ( Colombia y Estados Unidos) cuidando que el precio sea el establecido por precios de transferencia.
+* Manejo de relaciones para consecución cupos de créditos bancarios, tarjetas de crédito.
+* Entre otras funciones de apoyo a gerencia y demás áreas de la organización.
+* Monitoreo y seguimiento del archivo de soportes de acuerdo con las normas de gestion documental.
+
+
+### Comentarios
+
+
+---
+
+## Preguntas?
+
+
+
+---
+
+## Contáctame
