@@ -2,7 +2,7 @@
 layout: post
 title:  "Radiotrans"
 date:   2020-07-14
-excerpt: "Proyectos hechos en Radiotrans SAS."
+excerpt: "Proyectos realizados en Radiotrans SAS."
 project: true
 tag:
 - Experiencia
