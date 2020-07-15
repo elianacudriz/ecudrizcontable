@@ -13,8 +13,6 @@ tag:
 comments: true
 ---
 
-Eliana Cudriz</b> Profesional entusiasta por las Niif, tributaria, auditoría y finanzas.
-
 Soy Contadora Pública con tarjeta profesional vigente y con toda la disposicion y entrega necesaria para
 aportar en el cumplimiento de todas las metas y propositos de su empresa.
 
