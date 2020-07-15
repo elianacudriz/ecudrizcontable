@@ -2,7 +2,7 @@
 layout: post
 title:  "Radiotrans"
 date:   2020-07-14
-excerpt: "Proyectos hechos para en Radiotrans SAS."
+excerpt: "Proyectos hechos en Radiotrans SAS."
 project: true
 tag:
 - Experiencia
@@ -23,12 +23,9 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 
 ## Comentarios
 
-
 ---
 
 ## Preguntas?
-
-
 
 ---
 
