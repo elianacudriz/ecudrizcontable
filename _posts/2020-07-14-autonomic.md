@@ -21,14 +21,14 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 * Elaboración y presentación de impuestos nacionales y territoriales.
 * Elaboración de los estados financieros.
 * Elaboración de nómina.
-* Elaboración de informes de junta mensuales y presentación de los mismos.
+* Elaboración de informes de junta mensuales y presentación de estos.
 * Proyección de renta y análisis de estrategias tributarias adecuadas en pro de la optimización tributaria de la compañía.
 * Proyección de Caja a 1 o más años determinando el efectivo requerido para toma de decisiones futuras.
 * Revisión y monitoreo del informe diario de caja.
-* Elaboración del presupuesto al año siguiente y análisis del mismo.
+* Apoyo en la elaboración del presupuesto del año siguiente.
 * Manejo de relaciones para consecución cupos de créditos bancarios, tarjetas de crédito.
-* Control y auditoria de las afiliaciones de ingreso de personal a loborar.
-* Elaboracion de nomina y pagos de seguridad social.
+* Control y auditoria de las afiliaciones de ingreso de personal a laborar.
+* Elaboración de nómina y pagos de seguridad social.
 * Entre otras funciones de apoyo a gerencia y demás áreas de la organización.
 
 

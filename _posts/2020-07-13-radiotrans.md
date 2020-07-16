@@ -17,7 +17,7 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 
 ## Experiencia en Radiotrans SAS
 * Implementación de NIIF.
-* Apoyo en documentacion para inscripcion del RUP.
+* Inscripción del RUP.
 * Presentación de supersociedades.
 
 

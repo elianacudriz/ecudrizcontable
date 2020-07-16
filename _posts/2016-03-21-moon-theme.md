@@ -14,18 +14,18 @@ comments: true
 feature: http://i.imgur.com/Ds6S7lJ.png
 ---
 
-Soy Contadora Pública con tarjeta profesional vigente y con toda la disposicion y entrega necesaria para aportar al cumplimiento de todas las metas y propositos de su empresa.
+Soy Contadora Pública con tarjeta profesional vigente y con toda la disposicioón y entrega necesaria para aportar al cumplimiento de todas las metas y propósitos de su empresa.
 
 ## Experiencia de mi trabajo como independiente
 * Presentación informacion exógena.
 * Elaboración y presentación de renta personas naturales.
 * Elaboración y presentación de renta personas juridicas.
-* Inscripcion y renovacion RUP.
-* Auditoria y conciliacion cuentas contables.
-* Asesorias relacionadas con aplicacion de NIIF.
+* Inscripción y renovación RUP.
+* Auditoría y conciliación cuentas contables.
+* Asesorías relacionadas con aplicación de NIIF.
 * Presentación de supersociedades.
-* Elaboración y presentacion impuestos territoriales y nacionales.
-* Soporte en areas administrativas.
+* Elaboración y presentación impuestos territoriales y nacionales.
+* Soporte en áreas administrativas.
 * Soporte en el área financiera.
 * Asesoría tributaria.
 
