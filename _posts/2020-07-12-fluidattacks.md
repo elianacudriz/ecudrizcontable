@@ -6,10 +6,9 @@ excerpt: "Trabajo realizado en Fluidsignal Group SA."
 project: true
 tag:
 - Experiencia
-- Eliana Cudriz
-- blog
-- Acerca de mí
+- FluidAttacks
 - Contadora
+- Fluidsignal
 comments: true
 feature: http://i.imgur.com/Ds6S7lJ.png
 ---

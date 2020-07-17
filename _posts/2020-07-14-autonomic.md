@@ -6,10 +6,8 @@ excerpt: "Trabajo para Autonomic SAS."
 project: true
 tag:
 - Experiencia
-- Eliana Cudriz
-- blog
-- Acerca de mí
 - Contadora
+- Autonomic
 comments: true
 feature: http://i.imgur.com/Ds6S7lJ.png
 ---

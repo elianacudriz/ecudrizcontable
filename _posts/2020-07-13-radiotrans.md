@@ -6,9 +6,7 @@ excerpt: "Proyectos realizados en Radiotrans SAS."
 project: true
 tag:
 - Experiencia
-- Eliana Cudriz
-- blog
-- Acerca de mí
+- Radiotrans
 - Contadora
 comments: true
 feature: http://i.imgur.com/Ds6S7lJ.png
