@@ -22,9 +22,21 @@ Como auditora externa tuve la oportunidad de realizar la implementación de NIIF
 * Optimización tributaria
 * Presupuestos
 
+## Experiencia de mi trabajo como independiente
+* Presentación informacion exógena.
+* Elaboración y presentación de renta personas naturales.
+* Elaboración y presentación de renta personas juridicas.
+* Inscripción y renovación RUP.
+* Auditoría y conciliación cuentas contables.
+* Asesorías relacionadas con aplicación de NIIF.
+* Presentación de supersociedades.
+* Elaboración y presentación impuestos territoriales y nacionales.
+* Soporte en áreas administrativas.
+* Soporte en el área financiera.
+* Asesoría tributaria.
+
+
 ## Otras actitudes
 
 * Ingles B1
 * Contabilidad en USA
-
-## Contáctame
