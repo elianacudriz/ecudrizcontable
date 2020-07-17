@@ -30,15 +30,3 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 * Control y auditoria de las afiliaciones de ingreso de personal a laborar.
 * Elaboración de nómina y pagos de seguridad social.
 * Entre otras funciones de apoyo a gerencia y demás áreas de la organización.
-
-
-
-## Comentarios
-
----
-
-## Preguntas?
-
----
-
-## Contáctame

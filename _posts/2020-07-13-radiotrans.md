@@ -19,14 +19,3 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 * Implementación de NIIF.
 * Inscripción del RUP.
 * Presentación de supersociedades.
-
-
-## Comentarios
-
----
-
-## Preguntas?
-
----
-
-## Contáctame

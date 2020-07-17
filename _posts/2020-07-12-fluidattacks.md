@@ -32,14 +32,3 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 * Manejo de relaciones para consecución cupos de créditos bancarios, tarjetas de crédito.
 * Entre otras funciones de apoyo a gerencia y demás áreas de la organización.
 * Monitoreo y seguimiento del archivo de soportes de acuerdo con las normas de gestión documental.
-
-
-## Comentarios
-
----
-
-## Preguntas?
-
----
-
-## Contáctame
