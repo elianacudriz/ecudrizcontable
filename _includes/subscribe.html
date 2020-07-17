@@ -1,0 +1,9 @@
+{% if site.mailchimp_action and site.mailchimp_input %}
+<h3 class="title">
+  <div>
+    <span>Suscríbete</span>
+    <p style="font-size:1rem;font-weight:300">Recibe un correo electrónico semanal de los posts que agrego acá.</p>
+    {% include subscribe-form.html %}
+  </div>
+</h3>
+{% endif %}

@@ -37,7 +37,14 @@ layout: compress
                 {% include meta.html %}
                 </div>
             </div>
+            {% if page.project %}
+
+            {% else %}
+            <hr class="hr-line">
+            {% include subscribe.html %}
+           {% endif %}
         </div>
+
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
     </header>
     {% include scripts.html %}

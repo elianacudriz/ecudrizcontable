@@ -27,7 +27,13 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   https-elianacudriz-github-io-ecudrizcontable
+
+#formcarry:
+
+# MailChimp settings
+#mailchimp_action:
+#mailchimp_input:
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,7 +44,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              elianacudriz@gmail.com
 twitter:            eliana_cudriz
 facebook:           Eliana-Cudriz-101761994864692/?modal=admin_todo_tour
 linkedin:           eliana-cudriz-53b82210b/
