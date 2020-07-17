@@ -32,8 +32,8 @@ disqus_shortname:   https-elianacudriz-github-io-ecudrizcontable
 #formcarry:
 
 # MailChimp settings
-mailchimp_action:
-mailchimp_input:
+#mailchimp_action:
+#mailchimp_input:
 
 # Social
 # if you don't have any of social below, comment the line.
