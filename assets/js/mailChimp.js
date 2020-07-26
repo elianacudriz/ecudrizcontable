@@ -247,6 +247,7 @@
 		    $('#mce-success-response').hide();
 		    $('#mce-error-response').hide();
         $('#mc-embedded-subscribe').attr("disabled", false);
+        $("#mc-embedded-subscribe").css("background-color","#142462");
 
 		    // On successful form submission, display a success message and reset the form
 		    if (resp.result == "success"){
@@ -307,6 +308,7 @@
 		                var data = {};
 		                data[fieldName] = msg;
                     $("#mc-embedded-subscribe").attr("disabled", true);
+                    $("#mc-embedded-subscribe").css("background-color","#aaa");
 		                mc.mce_validator.showErrors(data);
 		            }
 		        } catch(e){
