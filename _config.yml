@@ -14,7 +14,7 @@ notfound:           'assets/img/notfound.gif'
 alt_notfound:       'pulp fiction john travolta not found from https://media.giphy.com/media/6uGhT1O4sxpi8/source.gif'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_MX
-url:                https://elianacudriz.github.io/ecudrizcontable
+url:                https://ecudrizcontable.com
 
 # Jekyll
 permalink:          /:title/
