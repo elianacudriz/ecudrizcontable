@@ -1,30 +1,34 @@
 ---
 layout: post
-title:  "Autonomic"
+title:  "FluidAttacks"
 date:   2020-07-14
-excerpt: "Trabajo para Autonomic SAS."
+excerpt: "Trabajo realizado en Fluidsignal Group SA."
 project: true
 tag:
 - Experiencia
+- FluidAttacks
 - Contadora
-- Autonomic
+- Fluidsignal
 comments: false
 feature: http://i.imgur.com/Ds6S7lJ.png
+alt_feature: "Something"
 ---
 
-
-## Experiencia en Autonomic SAS
+## Experiencia en Fluidsignal Group SA
 * Responsable de la información contable y financiera de la compañía.
 * Auditoría y revisión de la información contable.
 * Elaboración y presentación de impuestos nacionales y territoriales.
-* Elaboración de los estados financieros.
+* Elaboración de los estados financieros anuales y parciales con sus respectivas notas, Colombia y Estados Unidos.
+* Liderazgo y monitoreo del proceso de facturación electrónica.
+* Elaboración y revisión del cumplimiento de las políticas contables definidas.
 * Elaboración de nómina.
 * Elaboración de informes de junta mensuales y presentación de estos.
 * Proyección de renta y análisis de estrategias tributarias adecuadas en pro de la optimización tributaria de la compañía.
 * Proyección de Caja a 1 o más años determinando el efectivo requerido para toma de decisiones futuras.
-* Revisión y monitoreo del informe diario de caja.
-* Apoyo en la elaboración del presupuesto del año siguiente.
+* Revisión y monitoreo del informe diario de caja para Colombia y Estados Unidos.
+* Elaboración del presupuesto anual.
+* Ejecución presupuestal.
+* Monitoreo de la facturación de ambas compañías (Colombia y Estados Unidos) cuidando que el precio sea el establecido por precios de transferencia.
 * Manejo de relaciones para consecución cupos de créditos bancarios, tarjetas de crédito.
-* Control y auditoria de las afiliaciones de ingreso de personal a laborar.
-* Elaboración de nómina y pagos de seguridad social.
 * Entre otras funciones de apoyo a gerencia y demás áreas de la organización.
+* Monitoreo y seguimiento del archivo de soportes de acuerdo con las normas de gestión documental.

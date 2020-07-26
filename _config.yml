@@ -5,10 +5,13 @@ description:        "Profesional entusiasta por las Niif, tributaria, auditoría
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
+alt_logo:           'Logo Eliana Cudriz'
 profile:            'assets/img/foto.png'
+alt_profile:        'Foto Eliana Cudriz'
 background:         'assets/img/fondo.jpg'
+alt_background:     'Laptop and notepad. Photo by Nick Morrison on Unsplash https://unsplash.com/photos/FHnnjk1Yj7Y'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             es_MX
 url:                https://elianacudriz.github.io/ecudrizcontable
 
 # Jekyll
@@ -49,7 +52,7 @@ whatsapp:
 #bing-verify:
 email:              elianacudriz@gmail.com
 twitter:            eliana_cudriz
-facebook:           Eliana-Cudriz-101761994864692/?modal=admin_todo_tour
+facebook:           Eliana-Cudriz-101761994864692/
 linkedin:           eliana-cudriz-53b82210b/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username

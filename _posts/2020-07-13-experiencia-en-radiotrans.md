@@ -10,6 +10,7 @@ tag:
 - Contadora
 comments: false
 feature: http://i.imgur.com/Ds6S7lJ.png
+alt_feature: "Something"
 ---
 
 
