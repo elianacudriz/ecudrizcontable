@@ -9,7 +9,7 @@ tag:
 - FluidAttacks
 - Contadora
 - Fluidsignal
-comments: true
+comments: false
 feature: http://i.imgur.com/Ds6S7lJ.png
 ---
 

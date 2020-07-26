@@ -8,7 +8,7 @@ tag:
 - Experiencia
 - Radiotrans
 - Contadora
-comments: true
+comments: false
 feature: http://i.imgur.com/Ds6S7lJ.png
 ---
 
