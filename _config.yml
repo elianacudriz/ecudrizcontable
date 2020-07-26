@@ -32,9 +32,12 @@ disqus_shortname:   https-elianacudriz-github-io-ecudrizcontable
 #formcarry:
 
 # MailChimp settings
-#mailchimp_action:
-#mailchimp_input:
+mailchimp_action: https://github.us10.list-manage.com/subscribe/post?u=c3a5e2eb37d8f568e01d2bf1a&amp;id=eaf8f2083c
+mailchimp_input: b_c3a5e2eb37d8f568e01d2bf1a_eaf8f2083c
 
+whatsapp:
+  number:         573053491660
+  text:           Me%20interesa%20el%20auto%20que%20estás%20vendiendo
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -57,7 +60,6 @@ instagram:          elianacudriz/?hl=en
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
