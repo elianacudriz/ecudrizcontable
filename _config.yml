@@ -10,6 +10,8 @@ profile:            'assets/img/foto.png'
 alt_profile:        'Foto Eliana Cudriz'
 background:         'assets/img/fondo.jpg'
 alt_background:     'Laptop and notepad. Photo by Nick Morrison on Unsplash https://unsplash.com/photos/FHnnjk1Yj7Y'
+notfound:           'assets/img/notfound.gif'
+alt_notfound:       'pulp fiction john travolta not found from https://media.giphy.com/media/6uGhT1O4sxpi8/source.gif'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_MX
 url:                https://elianacudriz.github.io/ecudrizcontable
@@ -32,7 +34,11 @@ sass:
 # Comments
 disqus_shortname:   https-elianacudriz-github-io-ecudrizcontable
 
-#formcarry:
+#email contact
+not_found_subject: "[Error-Pagina]%20Pagina%20no%20encontrada"
+not_found_body:    "Hola,%20parece%20que%20no%20pude%20encontrar%20la%20siguiente%20pagina: "
+contact_subject:   "[Contacto] Oferta de servicios contables"
+contact_body:      "Hola! Estoy interesado en conocer mas de tus servicios."
 
 # MailChimp settings
 mailchimp_action: https://github.us10.list-manage.com/subscribe/post?u=c3a5e2eb37d8f568e01d2bf1a&amp;id=eaf8f2083c
@@ -40,12 +46,12 @@ mailchimp_input: b_c3a5e2eb37d8f568e01d2bf1a_eaf8f2083c
 
 whatsapp:
   number:         573053491660
-  text:           Me%20interesa%20el%20auto%20que%20estás%20vendiendo
+  text:           "Hola! Estoy interesado en conocer mas de tus servicios."
 # Social
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  #analytics:
+#  analytics:        UA-173577540-1
   #verify:
   #ad-client:
   #ad-slot:

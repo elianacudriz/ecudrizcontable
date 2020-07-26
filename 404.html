@@ -4,5 +4,15 @@ title: "404"
 permalink: /404
 comments: false
 ---
-<p>Parece que te equivocaste de búsqueda. Lo siento.</p>
-<p>Si seguiste un link esperando una página acá puedes <a href="mailto:{{ site.email }}?subject=Pagina%20no%20encontrada">contactarme</a>.</p>
+
+<div class="row">
+            <img alt="{{ site.alt_notfound }}" src="{{ site.notfound }}">
+        <h3 class="title">
+              <p style="font-size:1.2rem;font-weight:300">Parece que te equivocaste de búsqueda. Lo siento.</p>
+        </h3>
+        <h3 class="title">
+            <a href="{{ site.url }}">
+              <p style="font-size:1rem;font-weight:300">Si seguiste un link esperando una página acá puedes <a href="mailto:{{ site.email }}?subject={{ site.not_found_subject }}&body={{ site.not_found_subject_body }}{{ page.path }}">contactarme</a>.</p>
+      </a>
+        </h3>
+</div>
