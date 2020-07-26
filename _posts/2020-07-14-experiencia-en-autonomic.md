@@ -9,8 +9,8 @@ tag:
 - Contadora
 - Autonomic
 comments: false
-feature: http://i.imgur.com/Ds6S7lJ.png
-alt_feature: "Something"
+feature: assets/img/posts/2020-07-14-experiencia-en-autonomic.jpg
+alt_feature: "Taxi for hire. Photo by Clem Onojeghuo on Unsplash https://unsplash.com/photos/fY8Jr4iuPQM"
 ---
 
 

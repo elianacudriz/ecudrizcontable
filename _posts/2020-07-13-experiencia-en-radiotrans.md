@@ -9,8 +9,8 @@ tag:
 - Radiotrans
 - Contadora
 comments: false
-feature: http://i.imgur.com/Ds6S7lJ.png
-alt_feature: "Something"
+feature: assets/img/posts/2020-07-13-experiencia-en-radiotrans.jpg
+alt_feature: "Radio tower. Photo by Steve Halama on Unsplash https://unsplash.com/photos/t5zp-0ZXFPg"
 ---
 
 

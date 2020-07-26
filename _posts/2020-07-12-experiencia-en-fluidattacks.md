@@ -10,8 +10,8 @@ tag:
 - Contadora
 - Fluidsignal
 comments: false
-feature: http://i.imgur.com/Ds6S7lJ.png
-alt_feature: "Something"
+feature: assets/img/posts/2020-07-12-experiencia-en-fluidattacks.jpg
+alt_feature: "Hacker on pc. Photo by Kevin Horvat on Unsplash https://unsplash.com/photos/Pyjp2zmxuLk"
 ---
 
 ## Experiencia en Fluidsignal Group SA
