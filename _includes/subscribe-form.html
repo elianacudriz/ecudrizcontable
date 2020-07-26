@@ -1,17 +1,44 @@
 
-<div class="row">
-<form method="POST" action="{{ site.mailchimp_action }}&amp;c=?" id="mc-signup" name="mc-embedded-subscribe-form" novalidate>
+<div class="row mc_embed_signup">
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<form method="POST" action="{{ site.mailchimp_action }}&amp;c=?" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <!-- This is required for the form to work correctly -->
   <div style="position: absolute; left: -5000px;" aria-hidden="true">
     <input type="text" name="{{ site.mailchimp_input }}" tabindex="-1" value="">
   </div>
 <h3 class="title">
-      <input id="mce-EMAIL" type="email" name="EMAIL" placeholder="Correo electrónico">
+      <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Correo electrónico">
 </h3>
 <h3 class="title">
-    <input class="btn zoombtn" id="mc-submit" type="submit" value="Regístrate" name="subscribe">
+    <input class="btn zoombtn" id="mc-embedded-subscribe" type="submit" value="Regístrate" name="subscribe">
 </h3>
-</form>
-
-<p class="subscribe__error hidden"></p>
+<div id="mce-responses" class="clear">
+  <div class="response" id="mce-error-response" style="display:none"></div>
+  <div class="response" id="mce-success-response" style="display:none"></div>
 </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email'; /*
+ * Translated default messages for the $ validation plugin.
+ * Locale: ES
+ */
+$.extend($.validator.messages, {
+  required: "Este campo es obligatorio.",
+  remote: "Por favor, rellena este campo.",
+  email: "Por favor, escribe una dirección de correo válida",
+  url: "Por favor, escribe una URL válida.",
+  date: "Por favor, escribe una fecha válida.",
+  dateISO: "Por favor, escribe una fecha (ISO) válida.",
+  number: "Por favor, escribe un número entero válido.",
+  digits: "Por favor, escribe sólo dígitos.",
+  creditcard: "Por favor, escribe un número de tarjeta válido.",
+  equalTo: "Por favor, escribe el mismo valor de nuevo.",
+  accept: "Por favor, escribe un valor con una extensión aceptada.",
+  maxlength: $.validator.format("Por favor, no escribas más de {0} caracteres."),
+  minlength: $.validator.format("Por favor, no escribas menos de {0} caracteres."),
+  rangelength: $.validator.format("Por favor, escribe un valor entre {0} y {1} caracteres."),
+  range: $.validator.format("Por favor, escribe un valor entre {0} y {1}."),
+  max: $.validator.format("Por favor, escribe un valor menor o igual a {0}."),
+  min: $.validator.format("Por favor, escribe un valor mayor o igual a {0}.")
+});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
