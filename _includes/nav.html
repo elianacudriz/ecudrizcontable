@@ -11,6 +11,8 @@
 						<p>{{ site.description }}</p>
 					</li>
 					<li><a href="{{ site.url }}/acerca-de/"><span class="btn btn-inverse">Acerca de mí</span></a></li>
+					{% if site.whatsapp %}
+					  <a href="https://wa.me/{{ site.whatsapp.number }}?text={{ site.whatsapp.text }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-whatsapp"></i> Whatsapp</a>{% endif %}
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
                     </li>{% endif %}
