@@ -6,9 +6,9 @@ date: 2020-05-15
 comments: false
 ---
 
-Soy contadora pública de la UDEM (Universidad de Medellín). Una entusiasta por las Niif, tributaria, auditoría y finanzas. Me gusta investigar y apoyar en la creación de indicadores que permitan medir tu negocio de manera confiable y certera. Estoy constantemente estudiando y actualizándome en cuanto a los cambios en la normatividad tributaria y financiera actual como desarrollo profesional.
+Soy contadora pública de la Universidad de Medellín. Una entusiasta por las NIIF, tributaria, auditoría y finanzas. Me gusta investigar y apoyar en la creación de indicadores que permitan medir tu negocio de manera confiable y certera. Estoy constantemente estudiando y actualizándome en cuanto a los cambios en la normatividad tributaria y financiera actual como desarrollo profesional.
 
-Como auditora externa tuve la oportunidad de realizar la implementación de NIIF en Radiotrans SAS, además he trabajado en empresas de servicios con sede en Estados Unidos y Colombia. Actualmente, asesoro a empresas de servicios y comerciales siendo soporte en el ámbito financiero, tributario, contable y administrativo.
+Como auditora externa he tenido la oportunidad de realizar la implementación de NIIF en varias empresas, además he trabajado en empresas de servicios con sede en Estados Unidos y Colombia. Actualmente, asesoro empresas de servicios y comercializadoras siendo soporte en el ámbito financiero, tributario, contable y administrativo.
 
 ## Con Conocimientos en:
 * Contabilidad general
@@ -36,7 +36,7 @@ Como auditora externa tuve la oportunidad de realizar la implementación de NIIF
 * Asesoría tributaria.
 
 
-## Otras actitudes
+## Otras aptitudes
 
-* Ingles B1
-* Contabilidad en USA
+* Inglés B1
+* Contabilidad en EEUU

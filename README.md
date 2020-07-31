@@ -21,7 +21,7 @@
 ## Otras actitudes
 
 * Ingles B1
-* Contabilidad en USA
+* Contabilidad en EEUU
 
 
 ## Contáctame

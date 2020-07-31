@@ -6,8 +6,10 @@ excerpt: "Trabajo para Autonomic SAS."
 project: true
 tag:
 - Experiencia
-- Contadora
-- Autonomic
+- Auditoria
+- Impuestos
+- Proyeccion
+- Estados financieros
 comments: false
 feature: assets/img/posts/2020-07-14-experiencia-en-autonomic.jpg
 alt_feature: "Taxi for hire. Photo by Clem Onojeghuo on Unsplash https://unsplash.com/photos/fY8Jr4iuPQM"
@@ -15,17 +17,18 @@ alt_feature: "Taxi for hire. Photo by Clem Onojeghuo on Unsplash https://unsplas
 
 
 ## Experiencia en Autonomic SAS
-* Responsable de la información contable y financiera de la compañía.
+* Politicas contables bajo NIIF
+* Organización y parametrizaciones pertinentes en el sistema contable.
+* Elaboración de los Estados financieros mensuales y anulaes.
+* Proyección de renta y análisis de estrategias tributarias adecuadas en pro de la optimización tributaria de la compañía.
 * Auditoría y revisión de la información contable.
 * Elaboración y presentación de impuestos nacionales y territoriales.
-* Elaboración de los estados financieros.
-* Elaboración de nómina.
+* Actualizacion trubitaria y cumplimiento al dia de los cambios en materia tributaria.
 * Elaboración de informes de junta mensuales y presentación de estos.
-* Proyección de renta y análisis de estrategias tributarias adecuadas en pro de la optimización tributaria de la compañía.
-* Proyección de Caja a 1 o más años determinando el efectivo requerido para toma de decisiones futuras.
 * Revisión y monitoreo del informe diario de caja.
 * Apoyo en la elaboración del presupuesto del año siguiente.
-* Manejo de relaciones para consecución cupos de créditos bancarios, tarjetas de crédito.
+* Contabilización hechos económicos de la organización.
+* Elaboración de nomina mensual.
 * Control y auditoria de las afiliaciones de ingreso de personal a laborar.
-* Elaboración de nómina y pagos de seguridad social.
+* Elaboración de plano para el pago de seguridad social.
 * Entre otras funciones de apoyo a gerencia y demás áreas de la organización.
