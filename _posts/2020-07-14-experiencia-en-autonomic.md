@@ -2,7 +2,7 @@
 layout: post
 title:  "Autonomic"
 date:   2020-07-14
-excerpt: "Trabajo para Autonomic SAS."
+excerpt: "Contadora pública, elaboración de estados financieros, proyecciones, informes de junta entre otros."
 project: true
 tag:
 - Experiencia

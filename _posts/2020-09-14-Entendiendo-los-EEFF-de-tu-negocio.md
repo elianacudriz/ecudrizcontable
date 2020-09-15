@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Cómo entender los informes financieros de tu negocio"
-date:   2020-07-31
-excerpt: "Cómo entender los informes financieros de tu negocio, paso 1 "
+date:   2020-09-14
+excerpt: "Si tienes dudas con respecto a como debes interpretar la información que tu contador te pasa cada mes, en este articulo lo descubriremos."
 tag:
-- contabilidad
-- finanzas
-- salud
-- negocio
-- empresa
+- Contabilidad
+- Finanzas
+- Salud
+- Negocio
+- Empresa
 comments: true
 feature: http://i.imgur.com/Ds6S7lJ.png
 alt_feature: "Something"

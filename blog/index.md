@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: All Blog
-excerpt: "A List of Blog"
+layout: publicaciones-lista
+title: Todos los Blogs.
+excerpt: "Lista de blogs"
 comments: false
 ---

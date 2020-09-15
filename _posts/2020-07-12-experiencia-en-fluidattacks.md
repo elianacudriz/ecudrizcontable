@@ -2,7 +2,7 @@
 layout: post
 title:  "FluidAttacks"
 date:   2020-07-14
-excerpt: "Trabajo realizado en Fluidsignal Group SA."
+excerpt: " Implementación de NIIF, elaboración de estados financiertos, elaboracion de impuestos, elaboracion de proyecciones de renta y de caja a mas de  1 año entre otros."
 project: true
 tag:
 
