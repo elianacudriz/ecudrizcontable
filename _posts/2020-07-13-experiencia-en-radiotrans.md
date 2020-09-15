@@ -2,7 +2,7 @@
 layout: post
 title:  "Radiotrans"
 date:   2020-07-14
-excerpt: "Implementación de NIIF."
+excerpt: "Implementación de NIIF, diagnóstico de la compañía relacionado con el manejo de la información bajo norma Colombiana analizando los cambios necesarios en la convergencia a NIIF Plenas y  presentación de supersociedades."
 project: true
 tag:
 - NIIF
@@ -16,6 +16,8 @@ alt_feature: "Radio tower. Photo by Steve Halama on Unsplash https://unsplash.co
 
 
 ## Experiencia en Radiotrans SAS
+
+RADIOTRANS es una compañía transnacional que se dedica a la comercialización, suministro, instalación y puesta en marcha y servicio de equipos y sistemas de Telecomunicaciones.
 
 * Implementación de NIIF.
 

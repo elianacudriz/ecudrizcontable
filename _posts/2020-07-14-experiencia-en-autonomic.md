@@ -17,6 +17,9 @@ alt_feature: "Taxi for hire. Photo by Clem Onojeghuo on Unsplash https://unsplas
 
 
 ## Experiencia en Autonomic SAS
+
+Autonomic es una  empresa especializada en el reclutamiento y Staff Augmentation de personal calificado en los campos de las tecnologías de la información. 
+
 * Politicas contables bajo NIIF
 * Organización y parametrizaciones pertinentes en el sistema contable.
 * Elaboración de los Estados financieros mensuales y anulaes.

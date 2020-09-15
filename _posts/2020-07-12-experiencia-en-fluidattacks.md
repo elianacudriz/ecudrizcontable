@@ -21,6 +21,9 @@ alt_feature: "Hacker on pc. Photo by Kevin Horvat on Unsplash https://unsplash.c
 Tuve la oportunidad de formarme como profesional en esta empresa, empecé mi trayectoria como auxiliar contable y posteriormente fui ascendida a analista financiera, meses mas tarde tuve la oportunidad de trabajar como contadora siendo apoyo de las areas financieras y administrativas de la organización.
 
 ## Experiencia en Fluidsignal Group SA
+
+Fluid Attacks es una empresa de seguridad informática, desarrolla productos enfocados en ciberseguridad, ofreciendo servicios de hacking ético y pruebas de penetración a empresas de desarrollo y otras.
+
 * Implementación de NIIF
 * Apoyo en la elaboración de las politicas organizacionales bajo NIIF
 * Elaboracion de los Estados financieros mensuales y anuales, Colombia y EEUU.
