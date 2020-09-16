@@ -10,7 +10,7 @@ tag:
 - Negocio
 - Empresa
 comments: true
-feature: assets/img/posts/2020-09-14-Entendiendo-los-EEFF-de-tu-negocio.jpg
+feature: assets/img/posts/2020-09-14-Entendiendo-los-EEFF-de-tu-negocio.md
 alt_feature: "Thinking man. Photo by bruce mars on Unsplash https://unsplash.com/photos/xj8qrWvuOEs"
 ---
 
@@ -37,9 +37,9 @@ generar al cerrar cada año fiscal y son:
 financiera de tu empresa. Que cosas posees y qué cosas debes.
 **El estado de resultados integral** es aquel que nos muestra en detalle cuánto
 realmente estas ganando o perdiendo en el curso normal de las operaciones económicas
-de la empresa. Estos dos estados financieros contienen información valiosa y relevante  
-que permiten analizar tu negocio por medio de indicadores financieros que nos permiten tomar
-decisiones relacionadas con el crecimiento de su empresa.
+de la empresa. Estos dos estados financieros contienen información valiosa y relevante
+que nos dan la posibilidad de analizar su negocio haciendo uso de indicadores financieros
+que nos permiten tomar decisiones acertadas relacionadas con el crecimiento del mismo.
 
 **El estado de cambios en el patrimonio** es un estado financiero que nos muestra cuánto
 está endeudada la empresa con relación a los socios, y esto se evalúa de manera anual pues
