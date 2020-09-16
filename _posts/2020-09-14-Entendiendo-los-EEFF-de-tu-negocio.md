@@ -10,7 +10,7 @@ tag:
 - Negocio
 - Empresa
 comments: true
-feature: assets/img/posts/2020-09-14-Entendiendo-los-EEFF-de-tu-negocio.jpg
+feature: assets/img/posts/2020-09-14-Entendiendo-los-EEFF-de-tu-negocio.md
 alt_feature: "Thinking man. Photo by bruce mars on Unsplash https://unsplash.com/photos/xj8qrWvuOEs"
 ---
 
