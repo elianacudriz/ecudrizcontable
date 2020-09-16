@@ -42,13 +42,23 @@ que nos dan la posibilidad de analizar su negocio haciendo uso de indicadores fi
 que nos permiten tomar decisiones acertadas relacionadas con el crecimiento del mismo.
 
 **El estado de cambios en el patrimonio** es un estado financiero que nos muestra cuánto
-está endeudada la empresa con relación a los socios, y esto se evalúa de manera anual pues
-los cambios patrimoniales solo ocurren una vez al año en asamblea de accionistas.
-En **el estado de flujos de efectivo** se comparan las diferencias de las cuentas de balance
-de los dos últimos periodos y nos determina el efectivo a final de año.
-Para hacer seguimiento a la caja es indispensable que cada empresario la monitoree a diario,
-se deben tener claras las entradas y salidas de dinero a diario, para poder tener certeza
-de que se cuenta con el efectivo suficiente para cubrir sus obligaciones.
+está endeudada la empresa con relación a los socios, en este estado financiero se evidencian
+los resultados y utilidades optenidas en los ultimos dos periodos y se puede ver como se han
+utilizado esos recursos. Aquí se puede ver si se realizó distribucion de utilidades,
+cuanto dinero quedo guardado en reservas, como se comporta el capital entre otros.
+En otras palabras es la materialización de las desiciones realizadas por los socios y/o accionistas
+en la asamblea anual.
+**El estado de flujos de efectivo** es un estado financiero en el que se  comparan las diferencias de las
+cuentas de balance de los dos últimos periodos, analizando si estas diferencias fueron ocacionadas
+por actividades de operación, financiación o inversión. En otras palabras nos permite determinar
+en que se ha venido invirtiendo el efectivo en un periodo.
+Ahora bien, es muy importante tener en cuenta, que cada empresario debe tratar de hacer seguimiento a la caja constantemente.
+Esperar a que se acabe el año para echar un vistazo a la caja es demasiado riesgoso.
+Es indispensable que cada empresario la monitoree a diario,
+se deben tener claras las entradas y salidas en un periodo corto de tiempo, para poder tener certeza
+de que se cuenta con el efectivo suficiente para cubrir con sus obligaciones, y si por el contrario no se
+tiene el dinero, se puedan tomar decisiones de endeudamiento con tiempo. Con esta información se evitan los
+"huecos y/o goteras" en tu empresa y se logra tener un comportamiento más eficiente en el mercado.
 
 Ahora, debemos tener presente que las cuentas contables directamente relacionadas
 con **el estado de situación financiera** son aquellas determinadas como *cuentas de balance*,
