@@ -17,13 +17,13 @@ alt_feature: "Thinking man. Photo by bruce mars on Unsplash https://unsplash.com
 Para un gran número de profesionales que no ejercen la profesión contable,
 la contabilidad y las finanzas
 son un mundo un poco difícil de entender. **¡Pero no es así!**;
-Estas áreas son de sumo cuidado en cada empresa. Son ellas las que
-al cualtificar los hechos económicos pasados, te dan la posibilidad
+Estas áreas son de sumo cuidado en cada empresa. Son ellas las que,
+al cuantificar los hechos económicos pasados, te dan la posibilidad
 de ver a futuro el estado de tu empresa.
 Con este artículo aprenderemos cómo interpretar y entender la información contable de sus empresas.
-De esta manera podrán darse cuenta de el estado de salud de su negocio y
-determinar si necesitan ayuda de personal medico especializado que les recete
-los antibióticos o medicamentos necesarios en pro de la recuperación de su negocio.
+De esta manera podrán darse cuenta del estado de salud de tu negocio y
+determinar si necesitan ayuda de personal médico especializado que les recete
+los antibióticos o medicamentos necesarios en pro de la recuperación de este.
 
 Empezaremos mencionando los **estados financieros básicos** que cada empresa debe
 generar al cerrar cada año fiscal y son:
@@ -54,7 +54,7 @@ Ahora, debemos tener presente que las cuentas contables directamente relacionada
 con **el estado de situación financiera** son aquellas determinadas como *cuentas de balance*,
 es decir, son cuentas que llevan saldo al periodo siguiente. Estas cuentas son los
 *activos*, *pasivos* y *patrimonio* y tienen la posibilidad de ser canceladas
-en contra de su naturaleza. **El estado de situación financiera** está basada en la famosa ecuación contable:
+en contra de su naturaleza. **El estado de situación financiera** está basado en la famosa ecuación contable:
 
 ```
 Activo = Pasivo + Patrimonio.
@@ -64,12 +64,12 @@ Activo = Pasivo + Patrimonio.
 *cuentas de resultados*, esto es *ingresos*, *costos* y *gastos*. Estas cuentas por el contrario
 no pueden ser movidas en contra de su naturaleza salvo unas pocas excepciones, además,
 determinan directamente la utilidad que ha tenido tu negocio en un periodo dado, dando la posibilidad
-de medir el crecimiento y la rentabilidad del mismo.
+de medir el crecimiento y la rentabilidad de este.
 
 Es muy importante monitorear al menos cada mes la información contable de tu negocio, es indispensable
-que tu como dueño, analice el anexo al balance por terceros para determinar que las cifras alli expuestas
+que tu como dueño, analice el anexo al balance por terceros para determinar que las cifras allí expuestas
 sean reales.
-En dicho analisis te das cuenta que un valor en los *estados financieros* está en contra de
+En dicho análisis te das cuenta de que un valor en los *estados financieros* está en contra de
 su naturaleza porque aparece con un saldo negativo, cuando esto ocurra, hay que preguntar
 qué pasó pues el dato puede contener algún tipo de error. El constante monitoreo y análisis
 de tus *estados financieros* garantiza la salud y el correcto funcionamiento de tu empresa a futuro.
