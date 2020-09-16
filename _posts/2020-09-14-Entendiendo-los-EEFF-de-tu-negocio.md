@@ -35,23 +35,26 @@ generar al cerrar cada año fiscal y son:
 
 **El estado de situación financiera** es aquel que te revela la verdadera condición
 financiera de tu empresa. Que cosas posees y qué cosas debes.
+
 **El estado de resultados integral** es aquel que nos muestra en detalle cuánto
 realmente estas ganando o perdiendo en el curso normal de las operaciones económicas
 de la empresa. Estos dos estados financieros contienen información valiosa y relevante
 que nos dan la posibilidad de analizar su negocio haciendo uso de indicadores financieros
-que nos permiten tomar decisiones acertadas relacionadas con el crecimiento del mismo.
+que nos permiten tomar decisiones acertadas relacionadas con el crecimiento de este.
 
 **El estado de cambios en el patrimonio** es un estado financiero que nos muestra cuánto
 está endeudada la empresa con relación a los socios, en este estado financiero se evidencian
-los resultados y utilidades optenidas en los ultimos dos periodos y se puede ver como se han
-utilizado esos recursos. Aquí se puede ver si se realizó distribucion de utilidades,
-cuanto dinero quedo guardado en reservas, como se comporta el capital entre otros.
-En otras palabras es la materialización de las desiciones realizadas por los socios y/o accionistas
+los resultados y utilidades obtenidas en los últimos dos periodos y se puede ver como se han
+utilizado esos recursos, determinando si en un periodo dado hubo distribución de utilidades,
+cambios significativos en las reservas legales, estatutarias u otras, cambios en
+el comportamiento del capital en un periodo dado entre otros.
+En otras palabras, es la materialización de las decisiones realizadas por los socios y/o accionistas
 en la asamblea anual.
+
 **El estado de flujos de efectivo** es un estado financiero en el que se  comparan las diferencias de las
-cuentas de balance de los dos últimos periodos, analizando si estas diferencias fueron ocacionadas
-por actividades de operación, financiación o inversión. En otras palabras nos permite determinar
-en que se ha venido invirtiendo el efectivo en un periodo.
+cuentas de balance de los dos últimos periodos, analizando si estas diferencias fueron ocasionadas
+por actividades de operación, financiación o inversión. En otras palabras, nos permite determinar
+en que se ha venido invirtiendo el efectivo en un periodo dado.
 Ahora bien, es muy importante tener en cuenta, que cada empresario debe tratar de hacer seguimiento a la caja constantemente.
 Esperar a que se acabe el año para echar un vistazo a la caja es demasiado riesgoso.
 Es indispensable que cada empresario la monitoree a diario,
@@ -60,7 +63,7 @@ de que se cuenta con el efectivo suficiente para cubrir con sus obligaciones, y 
 tiene el dinero, se puedan tomar decisiones de endeudamiento con tiempo. Con esta información se evitan los
 "huecos y/o goteras" en tu empresa y se logra tener un comportamiento más eficiente en el mercado.
 
-Ahora, debemos tener presente que las cuentas contables directamente relacionadas
+Debemos tener presente que las cuentas contables directamente relacionadas
 con **el estado de situación financiera** son aquellas determinadas como *cuentas de balance*,
 es decir, son cuentas que llevan saldo al periodo siguiente. Estas cuentas son los
 *activos*, *pasivos* y *patrimonio* y tienen la posibilidad de ser canceladas
@@ -70,7 +73,7 @@ en contra de su naturaleza. **El estado de situación financiera** está basado 
 Activo = Pasivo + Patrimonio.
 ```
 
-**El estado de resultados integral** por el contrario, se realiza con la información de
+**El estado de resultados integral**, por el contrario, se realiza con la información de
 *cuentas de resultados*, esto es *ingresos*, *costos* y *gastos*. Estas cuentas por el contrario
 no pueden ser movidas en contra de su naturaleza salvo unas pocas excepciones, además,
 determinan directamente la utilidad que ha tenido tu negocio en un periodo dado, dando la posibilidad
