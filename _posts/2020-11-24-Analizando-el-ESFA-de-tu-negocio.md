@@ -23,9 +23,11 @@ financiera de su negocio.
 El *Estado de situación financiera* es el estado financiero que nos muestra
 de una manera simple como estan las finanzas en su negocio. Nos muestra cuanto
 se tiene en caja y bancos, cuanto nos deben los clientes, si tenemos
-inventarios disponibles para la venta, etc., en otras palabras este estado financieros
-nos permite determinar la liquidez, nivel de endeudamiento, rentabilidad entre otros
-indicadores que nos hablar del estado financiero actual del negocio.
+inventarios disponibles para la venta, que debemos a terceros, que le debemos a
+las entidades bancarias, cuando han invertido los socios etc., en otras palabras
+este estado financiero nos permite determinar la liquidez, nivel de endeudamiento,
+rentabilidad entre otros indicadores que nos hablan del estado financiero actual
+del negocio.
 
 Ahora, hablando un poco más de los compenentes del *Estado de situacion financiera*,
 recordemos que este estado financiero se realiza mediante la ecuación patrimonial:
@@ -98,3 +100,8 @@ que es necesario tener en cuenta que tanto el análisis del indicador de endeuda
 como el del indicador de liquidez dependen mucho del sector.
 Así que es necesario que se analice la competencia y el comportamiento de estos indicadores en la competencia
 y el sector para poder identificar con mayor certeza si la empresa se encuentra en optimas condiciones.
+
+Estos dos indicadores son los mas usados y los que nos dan información importante
+y de primera mano para la toma de decisiones organizacionales del dia a dia. Si usted requiere conocer
+más acerca de otros indicadores que evaluen la rentabilidad u otros aspectos propios de su negocio,
+puedes dejar en los comentarios las dudas y sugerencias y en otro Blog hablaremos al respecto.
