@@ -42,13 +42,19 @@ de la empresa. Estos dos estados financieros contienen información valiosa y re
 que nos dan la posibilidad de analizar su negocio haciendo uso de indicadores financieros
 que nos permiten tomar decisiones acertadas relacionadas con el crecimiento de este.
 
-**El estado de cambios en el patrimonio** es un estado financiero que nos muestra cuánto
-está endeudada la empresa con relación a los socios, en este estado financiero se evidencian
-los resultados y utilidades obtenidas en los últimos dos periodos y se puede ver como se han
-utilizado esos recursos, determinando si en un periodo dado hubo distribución de utilidades,
-cambios significativos en las reservas legales, estatutarias u otras, cambios en
-el comportamiento del capital en un periodo dado entre otros.
-En otras palabras, es la materialización de las decisiones realizadas por los socios y/o accionistas
+**El estado de cambios en el patrimonio** es un estado financiero
+que nos muestra cuánto está endeudada la empresa
+con relación a los socios,
+en este estado financiero
+se evidencian los resultados y utilidades obtenidas
+en los últimos dos periodos
+y se puede ver como se han utilizado esos recursos,
+determinando si en un periodo dado
+hubo distribución de utilidades,
+cambios significativos en las reservas legales, estatutarias u otras,
+cambios en el comportamiento del capital en un periodo dado entre otros.
+En otras palabras, es la materialización de las decisiones
+realizadas por los socios y/o accionistas
 en la asamblea anual.
 
 **El estado de flujos de efectivo** es un estado financiero en el que se  comparan las diferencias de las
