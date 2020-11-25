@@ -9,12 +9,11 @@ tag:
 - Activo
 - Pasivo
 - patrimonio
-- Flujo de caja
-- Indicadores
 comments: true
-feature: assets/img/posts/2020-09-14-Entendiendo-los-EEFF-de-tu-negocio.jpg
+feature: assets/img/posts/2020-11-24-Analizando-el-ESFA-de-tu-negocio.jpg
 alt_feature: "Thinking man. Photo by bruce mars on Unsplash https://unsplash.com/photos/0aX51h4WvAk"
 ---
+
 En este artículo usted tendrá la  oportunidad de conocer
 cuales son las cuentas que conforman **El estado de situación financiera**,
 analizaremos qué interpretaciones debe tener con respecto a las mismas
